@@ -156,3 +156,5 @@ hs_err_pid*
 *.png
 !input50.png
 !input50.txt
+!LICENSE
+!README.md
