@@ -10,6 +10,6 @@ Offered by: [Princeton University](https://www.coursera.org/learn/algorithms-par
 Language: Java
 
 ## Assignments
-- [Percolation Threshold Estimation (via Monte Carlo Simulation)](https://github.com/sadanand1120/Algorithms-1/tree/master/Percolation%20Probability%20Estimation%20(Monte%20Carlo%20simulation))
+- [Percolation Threshold Estimation (via Monte Carlo Simulation)](https://github.com/sadanand1120/Algorithms-1/tree/master/Percolation%20Threshold%20Estimation%20(via%20Monte%20Carlo%20Simulation))
   - In this assignment, via Monte Carlo Simulation, estimation of the Percolation Threshold has to be made. This assignment is based on the classic Dynamic Connectivity problem, and uses the Union-Find data structure to find in an efficient way whether two nodes in a graph are connected or not.
   - **The complete details of the assignment problem are given [here](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php).**
